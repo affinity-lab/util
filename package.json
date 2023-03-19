@@ -1,0 +1,11 @@
+{
+  "name": "@affinity-lab/util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Gergely Laborci"
+  },
+  "dependencies": {
+    "sharp": "^0.31.3"
+  }
+}
